@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="App">
       <Header />
+      HGUUUIIII
       <button onClick={onToggleButton}>Закрыть</button>
     </div>
   );
