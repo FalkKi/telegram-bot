@@ -11,7 +11,7 @@ const Header = (props) => {
          <Button onClick={onClose}>Закрыть</Button>
          <span className={'username'}>{tg.initDataUnsafe?.user?.username}</span>
       </div>
-   )
+   );
 };
 
 export default Header;
